@@ -15,3 +15,12 @@ public static void main(String args[])
   return "Hello";
 }
 ```
+
+
+Ok , we're gonna add a C++ function here
+```c++
+void sayHi()
+{
+  cout << "Hi\r\n";
+}
+```
