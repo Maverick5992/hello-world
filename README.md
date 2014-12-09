@@ -27,3 +27,6 @@ void sayHi()
 
 
 This should appear if an edit from `Eclipse` has worked !!
+
+
+Yay ! Good job, man ;)
